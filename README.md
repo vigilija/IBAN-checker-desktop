@@ -1,2 +1,2 @@
 # IBAN-checker-desktop
-# To start run run.bat file.
+# To start program run run.bat file.
